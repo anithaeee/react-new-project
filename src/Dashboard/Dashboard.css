@@ -15,9 +15,15 @@
   display: inline;
   margin-left: 2vh;
   padding: 2vh 10vh;
-margin: auto;
-margin-bottom: 5vh;
-text-align: start;
+  margin: auto;
+  margin-bottom: 5vh;
+  text-align: start;
+  box-shadow: 10px 10px gray;
+  color:antiquewhite;
+}
+.box:hover {
+  background-color: aqua;
+  color: black;
 }
 .box-main{
   height: 30%;
